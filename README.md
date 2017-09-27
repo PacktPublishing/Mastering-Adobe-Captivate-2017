@@ -14,13 +14,6 @@ Other requirements are as follows:
 ## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
-
-
-The code will look like the following:
-```
-
-```
-
 You need the latest version of Adobe Captivate 2017 (available as a free 30-day trial version on the Adobe website) to complete the exercises in this book. Some exercises require the installation of the Adobe eLearning assets and Text-To-Speech voice agents. Both these packages are part of your Adobe Captivate license and are available for free on the Adobe website.
 
 Other requirements are as follows:
