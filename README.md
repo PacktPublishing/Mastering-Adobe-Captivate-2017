@@ -1,7 +1,16 @@
 # Mastering Adobe Captivate 2017
 This is the code repository for [Mastering Adobe Captivate 2017](https://www.packtpub.com/web-development/mastering-adobe-captivate-2017?utm_source=github&utm_medium=repository&utm_campaign=9781788295284), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
-0.00
+You need the latest version of Adobe Captivate 2017 (available as a free 30-day trial version on the Adobe website) to complete the exercises in this book. Some exercises require the installation of the Adobe eLearning assets and Text-To-Speech voice agents. Both these packages are part of your Adobe Captivate license and are available for free on the Adobe website.
+
+Other requirements are as follows:
+
+* Adobe Media Encoder 2015 (AME 2015 is part of the Captivate 2017 download)
+* A modern web browser with the latest version of the Flash Player installed.
+* Microsoft PowerPoint 2003 or higher (optional)
+* Microsoft Word 2003 or higher (optional)
+* Latest version of Adobe Photoshop CC (optional)
+* Latest version of Adobe Audition CC (optional)
 ## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
